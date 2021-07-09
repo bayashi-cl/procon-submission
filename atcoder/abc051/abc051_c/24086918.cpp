@@ -1,0 +1,92 @@
+#pragma region template
+#include <atcoder/math>
+#include <atcoder/modint>
+#include <boost/range/irange.hpp>
+// #include <bits/stdc++.h>
+#include <cmath>
+#include <iomanip>
+#include <iostream>
+#include <iterator>
+#include <limits>
+#include <map>
+#include <numeric>
+#include <queue>
+#include <set>
+#include <stack>
+#include <string>
+#include <valarray>
+#include <vector>
+
+namespace mine {
+using atcoder::pow_mod, atcoder::inv_mod;
+using boost::irange;
+using std::cin, std::cout, std::endl;
+using std::min, std::max, std::sort, std::abs, std::pow;
+using std::vector, std::string, std::set, std::map;
+using mint = atcoder::modint1000000007;
+using ll = long long int;
+using Pa = std::pair<int, int>;
+using Vec = std::vector<int>;
+using VecVec = std::vector<Vec>;
+constexpr int MOD = 1000000007;
+constexpr int INF = std::numeric_limits<int>::max() / 2;
+constexpr ll LINF = std::numeric_limits<ll>::max() / 2;
+// clang-format off
+inline std::istream& operator>>(std::istream& is, mint& m) {ll n; is >> n; m = n; return is;}
+inline std::ostream& operator<<(std::ostream& os, const mint& m) { os << m.val(); return os;}
+template <class T> std::istream& operator>>(std::istream& is, vector<T>& vec) {for (auto&& v : vec) is >> v; return is;}
+template <class T> std::ostream& operator<<(std::ostream& os, const vector<T>& vec) {for (std::size_t i = 0; i < vec.size(); i++) {if (i) os << " "; os << vec[i];} return os;}
+template <class T> std::istream& operator>>(std::istream& is, std::valarray<T>& arr) {for (auto&& a : arr) is >> a; return is;}
+template <class T> std::ostream& operator<<(std::ostream& os, const std::valarray<T>& arr) {for (std::size_t i = 0; i < arr.size(); i++) {if (i) os << " "; os << arr[i];} return os;}
+template <class S, class T> std::istream& operator>>(std::istream& is, std::pair<S, T>& p) {is >> p.first >> p.second; return is;}
+template <class S, class T> std::ostream& operator<<(std::ostream& os, const std::pair<S, T>& p) {os << p.first << " " << p.second; return os;}
+template <class T> inline T input() {T n; cin >> n; return n;}
+template <class T> inline vector<T> input(int n) {vector<T> res(n); for (auto&& r : res) cin >> r; return res;}
+template <class T, size_t N> inline std::array<T, N> input() {std::array<T, N> res; for (auto&& r : res) cin >> r; return res;}
+template <class Tail> void print(Tail&& tail) {cout << tail << "\n";}
+template <class Head, class... Body> void print(Head&& head, Body&&... tail) {cout << head << " "; print(std::forward<Body>(tail)...);}
+template <class Tail> void debug(Tail&& tail) {std::clog << tail << endl;}
+template <class Head, class... Body> void debug(Head&& head, Body&&... tail) {std::clog << head << " "; debug(std::forward<Body>(tail)...);}
+template <class T> inline bool chmax(T& a, const T& b) {if (a < b) {a = b; return 1;} return 0;}
+template <class T> inline bool chmin(T& a, const T& b) {if (b < a) {a = b; return 1;} return 0;}
+inline void init() {cin.tie(nullptr); std::ios::sync_with_stdio(false); cout << std::fixed << std::setprecision(11) << std::boolalpha;}
+// clang-format on
+#pragma endregion
+
+void main() {
+    auto [sx, sy, tx, ty] = input<int, 4>();
+    int x = abs(tx - sx);
+    int y = abs(ty - sy);
+    string ans = "";
+
+    string r(x, 'R');
+    string r1(x + 1, 'R');
+    string l(x, 'L');
+    string l1(x + 1, 'L');
+    string u(y, 'U');
+    string u1(y + 1, 'U');
+    string d(y, 'D');
+    string d1(y + 1, 'D');
+    ans += r;
+    ans += u;
+    ans += l;
+    ans += d1;
+    ans += r1;
+    ans += u1;
+    ans.push_back('L');
+    ans.push_back('U');
+    ans += l1;
+    ans += d1;
+    ans.push_back('R');
+
+    print(ans);
+}
+
+}  // namespace mine
+
+int main() {
+    mine::init();
+    mine::main();
+    std::cout << std::flush;
+    return 0;
+}
