@@ -2970,3 +2970,10 @@
 0,30323080,1647846206,past202010_d,past202010-open,bayashi_cl,Python (3.8.2),7.0,2733,AC,36.0
 1,30324225,1647848901,abc244_f,abc244,bayashi_cl,C++ (GCC 9.2.1),500.0,18897,AC,1603.0
 2,30337115,1647890079,abl_e,abl,bayashi_cl,C++ (GCC 9.2.1),500.0,18160,AC,298.0
+0,30345552,1647936467,practice2_b,practice2,bayashi_cl,C++ (GCC 9.2.1),0.0,12087,RE,236.0
+1,30345565,1647936502,practice2_b,practice2,bayashi_cl,C++ (GCC 9.2.1),0.0,12086,RE,462.0
+2,30345604,1647936634,practice2_b,practice2,bayashi_cl,C++ (GCC 9.2.1),100.0,12086,AC,185.0
+3,30347010,1647941156,practice2_j,practice2,bayashi_cl,C++ (GCC 9.2.1),100.0,14712,AC,87.0
+4,30347038,1647941234,practice2_j,practice2,bayashi_cl,C++ (GCC 9.2.1),100.0,10246,AC,84.0
+5,30347141,1647941574,practice2_j,practice2,bayashi_cl,C++ (GCC 9.2.1),100.0,14764,AC,86.0
+6,30355544,1647968171,typical90_ac,typical90,bayashi_cl,C++ (GCC 9.2.1),5.0,17993,AC,453.0
