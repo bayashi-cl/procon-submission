@@ -2977,3 +2977,5 @@
 4,30347038,1647941234,practice2_j,practice2,bayashi_cl,C++ (GCC 9.2.1),100.0,10246,AC,84.0
 5,30347141,1647941574,practice2_j,practice2,bayashi_cl,C++ (GCC 9.2.1),100.0,14764,AC,86.0
 6,30355544,1647968171,typical90_ac,typical90,bayashi_cl,C++ (GCC 9.2.1),5.0,17993,AC,453.0
+0,30361803,1648015306,past202010_e,past202010-open,bayashi_cl,C++ (GCC 9.2.1),0.0,9830,WA,8.0
+1,30361833,1648015407,past202010_e,past202010-open,bayashi_cl,C++ (GCC 9.2.1),7.0,9863,AC,6.0
