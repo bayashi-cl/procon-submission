@@ -2979,3 +2979,19 @@
 6,30355544,1647968171,typical90_ac,typical90,bayashi_cl,C++ (GCC 9.2.1),5.0,17993,AC,453.0
 0,30361803,1648015306,past202010_e,past202010-open,bayashi_cl,C++ (GCC 9.2.1),0.0,9830,WA,8.0
 1,30361833,1648015407,past202010_e,past202010-open,bayashi_cl,C++ (GCC 9.2.1),7.0,9863,AC,6.0
+0,30381561,1648108920,dp_h,dp,bayashi_cl,Python (3.8.2),100.0,6019,AC,1593.0
+1,30381595,1648109052,dp_h,dp,bayashi_cl,Python (3.8.2),100.0,6168,AC,784.0
+2,30381608,1648109121,dp_h,dp,bayashi_cl,PyPy3 (7.3.0),100.0,6172,AC,271.0
+3,30381618,1648109180,dp_h,dp,bayashi_cl,PyPy3 (7.3.0),100.0,6168,AC,137.0
+4,30381727,1648109646,dp_h,dp,bayashi_cl,Python (3.8.2),100.0,6228,AC,1592.0
+5,30382299,1648111885,practice2_k,practice2,bayashi_cl,Python (3.8.2),0.0,13591,RE,669.0
+6,30382482,1648112435,practice2_k,practice2,bayashi_cl,Python (3.8.2),0.0,13640,TLE,5518.0
+7,30383132,1648115092,past202010_f,past202010-open,bayashi_cl,Python (3.8.2),0.0,2739,RE,97.0
+8,30383159,1648115221,past202010_f,past202010-open,bayashi_cl,Python (3.8.2),7.0,2774,AC,96.0
+9,30383815,1648118173,practice2_k,practice2,bayashi_cl,PyPy3 (7.3.0),0.0,13641,TLE,5530.0
+10,30388057,1648130284,dp_h,dp,bayashi_cl,Python (3.8.2),100.0,3399,AC,1216.0
+11,30388143,1648130546,dp_h,dp,bayashi_cl,PyPy3 (7.3.0),100.0,3399,AC,244.0
+12,30388614,1648131884,dp_h,dp,bayashi_cl,Python (3.8.2),100.0,3499,AC,1156.0
+13,30391900,1648154109,abc244_e,abc244,bayashi_cl,C++ (GCC 9.2.1),500.0,16560,AC,52.0
+14,30391959,1648155182,abc244_d,abc244,bayashi_cl,C++ (GCC 9.2.1),400.0,12353,AC,14.0
+15,30392030,1648156831,past202010_g,past202010-open,bayashi_cl,Python (3.8.2),6.0,6818,AC,44.0
