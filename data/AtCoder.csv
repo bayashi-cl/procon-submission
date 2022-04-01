@@ -3031,3 +3031,13 @@
 2,30558418,1648581513,past202010_k,past202010-open,bayashi_cl,C++ (GCC 9.2.1),0.0,15019,WA,78.0
 3,30558453,1648582051,past202010_k,past202010-open,bayashi_cl,C++ (GCC 9.2.1),6.0,15079,AC,81.0
 0,30564553,1648619929,abc137_e,abc137,bayashi_cl,C++ (GCC 9.2.1),500.0,17539,AC,186.0
+0,30585587,1648709735,typical90_d,typical90,bayashi_cl,Python (3.8.2),2.0,502,AC,2247.0
+1,30585627,1648709959,typical90_d,typical90,bayashi_cl,Python (3.8.2),2.0,548,AC,2622.0
+2,30585941,1648711169,typical90_ag,typical90,bayashi_cl,Python (3.8.2),0.0,84,WA,23.0
+3,30586188,1648712303,typical90_bc,typical90,bayashi_cl,C++ (GCC 9.2.1),2.0,14816,AC,4313.0
+4,30586292,1648712694,typical90_bc,typical90,bayashi_cl,C++ (GCC 9.2.1),2.0,14798,AC,4102.0
+5,30586351,1648712904,typical90_bc,typical90,bayashi_cl,C++ (GCC 9.2.1),0.0,14798,WA,910.0
+6,30586370,1648712969,typical90_bc,typical90,bayashi_cl,C++ (GCC 9.2.1),0.0,14797,WA,888.0
+7,30588273,1648720473,past202012_e,past202012-open,bayashi_cl,C++ (GCC 9.2.1),7.0,14629,AC,11.0
+8,30589881,1648726888,abc245_f,abc245,bayashi_cl,C++ (GCC 9.2.1),500.0,18433,AC,109.0
+9,30597771,1648756404,past202012_f,past202012-open,bayashi_cl,C++ (GCC 9.2.1),7.0,13237,AC,21.0
