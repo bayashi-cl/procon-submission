@@ -3340,3 +3340,8 @@
 0,32112392,1653913143,arc141_a,arc141,bayashi_cl,Python (3.8.2),0.0,6072,WA,81.0
 1,32112452,1653913358,arc141_a,arc141,bayashi_cl,Python (3.8.2),400.0,6143,AC,95.0
 2,32120492,1653962353,abc253_d,abc253,bayashi_cl,Python (3.8.2),400.0,4786,AC,35.0
+0,32121554,1653967168,arc141_b,arc141,bayashi_cl,C++ (GCC 9.2.1),500.0,21334,AC,8.0
+1,32130002,1653999549,tenka1_2015_qualB_b,tenka1-2015-qualb,bayashi_cl,Python (3.8.2),0.0,107,RE,65.0
+2,32130156,1653999993,tenka1_2015_qualB_b,tenka1-2015-qualb,bayashi_cl,Python (3.8.2),0.0,152,WA,26.0
+3,32130205,1654000125,tenka1_2015_qualB_b,tenka1-2015-qualb,bayashi_cl,Python (3.8.2),0.0,215,WA,33.0
+4,32130251,1654000263,tenka1_2015_qualB_b,tenka1-2015-qualb,bayashi_cl,Python (3.8.2),40.0,300,AC,32.0
