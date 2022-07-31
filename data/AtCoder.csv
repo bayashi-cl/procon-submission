@@ -3550,3 +3550,9 @@
 0,33554114,1658923784,gigacode_2019_a,gigacode-2019,bayashi_cl,Python (3.8.2),100.0,50,AC,31.0
 0,33572941,1659010545,gigacode_2019_b,gigacode-2019,bayashi_cl,Python (3.8.2),100.0,185,AC,26.0
 0,33589832,1659087244,s8pc_4_a,s8pc-4,bayashi_cl,Python (3.8.2),250.0,4629,AC,41.0
+0,33614143,1659183192,arc145_a,arc145,bayashi_cl,Python (3.8.2),0.0,4485,WA,37.0
+1,33615341,1659183414,arc145_a,arc145,bayashi_cl,Python (3.8.2),400.0,4525,AC,39.0
+2,33620827,1659184520,arc145_b,arc145,bayashi_cl,Python (3.8.2),0.0,4620,WA,35.0
+3,33621582,1659184681,arc145_b,arc145,bayashi_cl,Python (3.8.2),500.0,4622,AC,38.0
+4,33637159,1659190283,arc145_c,arc145,bayashi_cl,Python (3.8.2),600.0,179,AC,1825.0
+5,33637535,1659190643,arc145_c,arc145,bayashi_cl,Python (3.8.2),600.0,86,AC,54.0
