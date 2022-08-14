@@ -3602,3 +3602,8 @@
 0,33924779,1660137639,pakencamp_2020_day1_b,pakencamp-2020-day1,bayashi_cl,Python (3.8.2),100.0,31,AC,24.0
 0,33943445,1660221777,pakencamp_2020_day1_c,pakencamp-2020-day1,bayashi_cl,Python (3.8.2),200.0,219,AC,27.0
 0,33964033,1660309405,pakencamp_2020_day1_d,pakencamp-2020-day1,bayashi_cl,Python (3.8.2),200.0,203,AC,28.0
+0,33985114,1660392081,abc264_a,abc264,bayashi_cl,Python (3.8.2),100.0,4446,AC,37.0
+1,33990361,1660392352,abc264_b,abc264,bayashi_cl,Python (3.8.2),200.0,4533,AC,38.0
+2,33997357,1660393079,abc264_c,abc264,bayashi_cl,C++ (GCC 9.2.1),300.0,19808,AC,24.0
+3,33999486,1660393360,abc264_d,abc264,bayashi_cl,C++ (GCC 9.2.1),400.0,26797,AC,6.0
+4,34006713,1660394638,abc264_e,abc264,bayashi_cl,C++ (GCC 9.2.1),500.0,21686,AC,542.0
