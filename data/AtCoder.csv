@@ -3611,3 +3611,5 @@
 1,34042490,1660474492,tdpc_contest,tdpc,bayashi_cl,Python (3.8.2),2.0,134,AC,51.0
 0,34072222,1660572939,APG4b_cp,APG4b,bayashi_cl,C++ (GCC 9.2.1),100.0,675,AC,9.0
 0,34088476,1660646950,pakencamp_2021_day2_a,pakencamp-2021-day2,bayashi_cl,Nim (1.0.6),100.0,7,AC,5.0
+0,34108977,1660736176,APG4b_co,APG4b,bayashi_cl,C++ (GCC 9.2.1),0.0,360,CE,
+1,34109006,1660736270,APG4b_co,APG4b,bayashi_cl,C++ (GCC 9.2.1),100.0,335,AC,7.0
