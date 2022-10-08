@@ -3734,3 +3734,5 @@
 0,35403400,1664927123,arc149_b,arc149,bayashi_cl,C++ (GCC 9.2.1),500.0,19850,AC,91.0
 0,35426606,1665030742,arc149_c,arc149,bayashi_cl,Python (3.8.2),0.0,5131,WA,540.0
 1,35426624,1665030819,arc149_c,arc149,bayashi_cl,Python (3.8.2),500.0,5131,AC,511.0
+0,35446487,1665130192,pakencamp_2021_day2_d,pakencamp-2021-day2,bayashi_cl,Python (3.8.2),0.0,181,TLE,2266.0
+1,35446577,1665130535,pakencamp_2021_day2_d,pakencamp-2021-day2,bayashi_cl,Python (3.8.2),200.0,286,AC,161.0
