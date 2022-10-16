@@ -3753,3 +3753,10 @@
 4,35613321,1665620835,pakencamp_2021_day2_f,pakencamp-2021-day2,bayashi_cl,Python (3.8.2),300.0,182,AC,31.0
 0,35639566,1665741718,pakencamp_2021_day2_g,pakencamp-2021-day2,bayashi_cl,C++ (GCC 9.2.1),0.0,21027,WA,29.0
 1,35639678,1665742161,pakencamp_2021_day2_g,pakencamp-2021-day2,bayashi_cl,C++ (GCC 9.2.1),400.0,20957,AC,24.0
+0,35661944,1665835287,abc273_a,abc273,bayashi_cl,Python (3.8.2),100.0,4515,AC,34.0
+1,35671163,1665836165,abc273_b,abc273,bayashi_cl,Python (3.8.2),0.0,4805,WA,39.0
+2,35672919,1665836435,abc273_b,abc273,bayashi_cl,Python (3.8.2),0.0,4832,WA,40.0
+3,35675301,1665836850,abc273_b,abc273,bayashi_cl,Python (3.8.2),200.0,4872,AC,33.0
+4,35678405,1665837472,abc273_c,abc273,bayashi_cl,C++ (GCC 9.2.1),300.0,18838,AC,205.0
+5,35684913,1665838993,abc273_d,abc273,bayashi_cl,C++ (GCC 9.2.1),400.0,20913,AC,436.0
+6,35690947,1665840553,abc273_e,abc273,bayashi_cl,C++ (GCC 9.2.1),500.0,19450,AC,395.0
