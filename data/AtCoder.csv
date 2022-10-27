@@ -3780,3 +3780,7 @@
 1,35934189,1666589270,abc274_a,abc274,bayashi_cl,Python (3.8.2),100.0,4521,AC,36.0
 2,35935398,1666593532,tessoku_book_h,tessoku-book,bayashi_cl,Python (3.8.2),1000.0,6572,AC,1272.0
 3,35947896,1666629988,tessoku_book_i,tessoku-book,bayashi_cl,Python (3.8.2),1000.0,4885,AC,1439.0
+0,35977091,1666772926,tessoku_book_j,tessoku-book,bayashi_cl,C++ (GCC 9.2.1),1000.0,23042,AC,43.0
+1,35985501,1666799409,math_and_algorithm_bn,tessoku-book,bayashi_cl,Python (3.8.2),1000.0,4659,AC,434.0
+2,35985647,1666800157,math_and_algorithm_o,tessoku-book,bayashi_cl,Python (3.8.2),1000.0,4528,AC,35.0
+3,35985824,1666801092,math_and_algorithm_aq,tessoku-book,bayashi_cl,Python (3.8.2),1000.0,4618,AC,36.0
