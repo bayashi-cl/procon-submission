@@ -3819,3 +3819,5 @@
 4,36426552,1668256279,abc277_d,abc277,bayashi_cl,C++ (GCC 9.2.1),400.0,19235,AC,45.0
 5,36431491,1668257063,abc277_e,abc277,bayashi_cl,C++ (GCC 9.2.1),500.0,24863,AC,211.0
 0,36473439,1668333720,tessoku_book_v,tessoku-book,bayashi_cl,Python (3.8.2),1000.0,4648,AC,147.0
+0,36495709,1668423891,abc275_d,abc275,bayashi_cl,C++ (GCC 9.2.1),400.0,1432,AC,7.0
+1,36495977,1668424763,tessoku_book_w,tessoku-book,bayashi_cl,Python (3.8.2),1000.0,4834,AC,57.0
