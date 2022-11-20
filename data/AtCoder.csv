@@ -3824,3 +3824,9 @@
 0,36524872,1668552772,abc277_e,abc277,bayashi_cl,C++ (GCC 9.2.1),500.0,25186,AC,157.0
 1,36524898,1668553117,tessoku_book_bl,tessoku-book,bayashi_cl,C++ (GCC 9.2.1),1000.0,25287,AC,63.0
 0,36552470,1668675722,tessoku_book_x,tessoku-book,bayashi_cl,Python (3.8.2),1000.0,4643,AC,86.0
+0,36601205,1668859402,abc278_a,abc278,bayashi_cl,Python (3.8.2),100.0,4564,AC,34.0
+1,36608142,1668859954,abc278_b,abc278,bayashi_cl,Python (3.8.2),200.0,4729,AC,35.0
+2,36613485,1668860451,abc278_c,abc278,bayashi_cl,C++ (GCC 9.2.1),300.0,19226,AC,158.0
+3,36617470,1668860883,abc278_d,abc278,bayashi_cl,C++ (GCC 9.2.1),400.0,28216,AC,80.0
+4,36639861,1668864541,abc278_e,abc278,bayashi_cl,C++ (GCC 9.2.1),500.0,21537,AC,21.0
+5,36649659,1668869890,abc278_e,abc278,bayashi_cl,C++ (GCC 9.2.1),500.0,19460,AC,71.0
