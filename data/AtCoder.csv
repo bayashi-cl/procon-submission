@@ -3909,3 +3909,15 @@
 6,37466973,1671839261,tessoku_book_bn,tessoku-book,bayashi_cl,Nim (1.0.6),0.0,6597,RE,950.0
 7,37467214,1671841463,tessoku_book_bn,tessoku-book,bayashi_cl,Nim (1.0.6),0.0,6731,TLE,1139.0
 8,37467272,1671841824,tessoku_book_bn,tessoku-book,bayashi_cl,Nim (1.0.6),1000.0,7029,AC,78.0
+0,37478570,1671881524,tessoku_book_bo,tessoku-book,bayashi_cl,Nim (1.0.6),1000.0,7242,AC,98.0
+1,37480641,1671883253,abc283_a,abc283,bayashi_cl,Python (3.8.2),100.0,4418,AC,35.0
+2,37487990,1671883462,abc283_b,abc283,bayashi_cl,Nim (1.0.6),200.0,5486,AC,92.0
+3,37490869,1671883596,abc283_c,abc283,bayashi_cl,Python (3.8.2),300.0,4576,AC,51.0
+4,37497818,1671884149,abc283_d,abc283,bayashi_cl,C++ (GCC 9.2.1),400.0,19548,AC,15.0
+5,37514926,1671887394,abc283_e,abc283,bayashi_cl,C++ (GCC 9.2.1),0.0,21281,WA,77.0
+6,37515334,1671887502,abc283_e,abc283,bayashi_cl,C++ (GCC 9.2.1),0.0,21281,WA,69.0
+7,37515813,1671887634,abc283_e,abc283,bayashi_cl,C++ (GCC 9.2.1),0.0,21280,WA,74.0
+8,37522422,1671889599,abc283_e,abc283,bayashi_cl,C++ (GCC 9.2.1),500.0,21767,AC,72.0
+9,37528643,1671907162,abc283_e,abc283,bayashi_cl,Nim (1.0.6),500.0,6256,AC,213.0
+10,37529429,1671916038,abc283_e,abc283,bayashi_cl,Python (3.8.2),0.0,5745,TLE,2206.0
+11,37529431,1671916060,abc283_e,abc283,bayashi_cl,PyPy3 (7.3.0),500.0,5745,AC,578.0
