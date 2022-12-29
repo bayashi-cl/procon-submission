@@ -3922,3 +3922,7 @@
 10,37529429,1671916038,abc283_e,abc283,bayashi_cl,Python (3.8.2),0.0,5745,TLE,2206.0
 11,37529431,1671916060,abc283_e,abc283,bayashi_cl,PyPy3 (7.3.0),500.0,5745,AC,578.0
 0,37569732,1672077823,abc283_d,abc283,bayashi_cl,Nim (1.0.6),400.0,5618,AC,20.0
+0,37592507,1672203415,tessoku_book_bg,tessoku-book,bayashi_cl,Nim (1.0.6),0.0,6490,RE,100.0
+1,37592558,1672203602,tessoku_book_bg,tessoku-book,bayashi_cl,Nim (1.0.6),1000.0,6502,AC,98.0
+2,37598940,1672225929,tessoku_book_bg,tessoku-book,bayashi_cl,Nim (1.0.6),1000.0,6879,AC,98.0
+3,37601666,1672234170,tessoku_book_bg,tessoku-book,bayashi_cl,Nim (1.0.6),1000.0,6822,AC,117.0
