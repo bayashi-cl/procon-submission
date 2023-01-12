@@ -3951,3 +3951,12 @@
 0,37913151,1673297384,abc284_d,abc284,bayashi_cl,C++ (GCC 9.2.1),400.0,21511,AC,106.0
 0,37932065,1673395706,abc284_e,abc284,bayashi_cl,Nim (1.0.6),0.0,5193,TLE,2207.0
 1,37932094,1673395801,abc284_e,abc284,bayashi_cl,Nim (1.0.6),500.0,5193,AC,233.0
+0,37936993,1673417335,tessoku_book_br,tessoku-book,bayashi_cl,C++ (GCC 9.2.1),1000.0,27642,AC,11.0
+1,37937185,1673417886,tessoku_book_bs,tessoku-book,bayashi_cl,Nim (1.0.6),1000.0,4956,AC,4.0
+2,37938111,1673420053,tessoku_book_bt,tessoku-book,bayashi_cl,C++ (GCC 9.2.1),1000.0,22662,AC,10.0
+3,37938521,1673420939,tessoku_book_bu,tessoku-book,bayashi_cl,C++ (GCC 9.2.1),1000.0,33470,AC,46.0
+4,37938916,1673422003,tessoku_book_bv,tessoku-book,bayashi_cl,C++ (GCC 9.2.1),1000.0,27829,AC,6.0
+5,37944497,1673439882,tessoku_book_bw,tessoku-book,bayashi_cl,Nim (1.0.6),0.0,4976,WA,6.0
+6,37944620,1673440262,tessoku_book_bw,tessoku-book,bayashi_cl,Nim (1.0.6),0.0,5086,WA,7.0
+7,37952713,1673490594,tessoku_book_bw,tessoku-book,bayashi_cl,Nim (1.0.6),1000.0,5173,AC,10.0
+8,37953103,1673492081,tessoku_book_bx,tessoku-book,bayashi_cl,C++ (GCC 9.2.1),1000.0,36111,AC,41.0
