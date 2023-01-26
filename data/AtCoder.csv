@@ -4004,3 +4004,11 @@
 1,38274160,1674434884,arc154_a,arc154,bayashi_cl,Python (3.8.2),300.0,240,AC,460.0
 2,38274177,1674435038,arc154_a,arc154,bayashi_cl,Python (3.8.2),300.0,198,AC,504.0
 0,38296926,1674541836,arc154_a,arc154,bayashi_cl,C++ (GCC 9.2.1),300.0,30624,AC,11.0
+0,38313356,1674624063,tessoku_book_cq,tessoku-book,bayashi_cl,Nim (1.0.6),1000.0,5292,AC,19.0
+1,38313594,1674624992,tessoku_book_cr,tessoku-book,bayashi_cl,Nim (1.0.6),1000.0,7894,AC,201.0
+2,38313640,1674625194,tessoku_book_cs,tessoku-book,bayashi_cl,Nim (1.0.6),0.0,4820,CE,
+3,38313655,1674625262,tessoku_book_cs,tessoku-book,bayashi_cl,Nim (1.0.6),1000.0,4834,AC,38.0
+4,38313758,1674625730,tessoku_book_ct,tessoku-book,bayashi_cl,C++ (GCC 9.2.1),1000.0,19694,AC,12.0
+5,38314425,1674628194,tessoku_book_cv,tessoku-book,bayashi_cl,Nim (1.0.6),1000.0,5301,AC,134.0
+6,38321594,1674652383,tessoku_book_cw,tessoku-book,bayashi_cl,Nim (1.0.6),0.0,5319,WA,88.0
+7,38321858,1674652995,tessoku_book_cw,tessoku-book,bayashi_cl,Nim (1.0.6),0.0,5302,WA,87.0
