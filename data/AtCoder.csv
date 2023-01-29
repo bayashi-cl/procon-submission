@@ -4025,3 +4025,9 @@
 10,38342707,1674753081,tessoku_book_dg,tessoku-book,bayashi_cl,Nim (1.0.6),0.0,6036,WA,60.0
 11,38342753,1674753461,tessoku_book_dg,tessoku-book,bayashi_cl,Nim (1.0.6),1000.0,6040,AC,82.0
 0,38350715,1674805029,tessoku_book_di,tessoku-book,bayashi_cl,Nim (1.0.6),1000.0,4880,AC,12.0
+0,38375972,1674907297,abc287_a,abc287,bayashi_cl,Nim (1.0.6),100.0,4863,AC,10.0
+1,38382298,1674907531,abc287_b,abc287,bayashi_cl,Nim (1.0.6),200.0,7569,AC,7.0
+2,38386623,1674907773,abc287_c,abc287,bayashi_cl,Nim (1.0.6),0.0,5058,WA,117.0
+3,38392104,1674908209,abc287_c,abc287,bayashi_cl,Nim (1.0.6),300.0,6469,AC,128.0
+4,38401499,1674909312,abc287_d,abc287,bayashi_cl,Nim (1.0.6),400.0,5212,AC,35.0
+5,38406366,1674910043,abc287_e,abc287,bayashi_cl,Nim (1.0.6),500.0,5156,AC,336.0
